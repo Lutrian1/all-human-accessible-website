@@ -1,0 +1,158 @@
+/* CSS */
+html {
+    font-family: "Poppins", sans-serif;
+    color: white;
+    height: 100%;
+}
+body{
+    background-color: #599AE7; 
+    height: 100%;
+    margin: 0em 1em 1em 1em;
+    display: flex;
+    flex-direction: column;
+    &.onboarding2{
+        background-color: #3F92B6;
+    }
+    &.onboarding3{
+        background-color: #06A192;
+    }
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.Skip {
+    padding-top: 2em;
+    margin: auto;
+    font-size: 1em;
+    display: flex;
+    justify-content: flex-end;
+}
+main {
+    align-items: center;
+    section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+
+        img {
+            background-image: radial-gradient(rgba(0, 0, 0, .2) 10em, transparent 0)
+        }
+    }
+    article{
+        .stipjes1{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            margin-top: 1em;
+            .stip1 {
+                height: 10px;
+                width: 10px;
+                border-radius: 50%;
+                border: solid;
+                border-color: white;
+                background-color: white;
+            }
+            .stip2, .stip3{
+                height: 10px;
+                width: 10px;
+                margin-left: 1em;
+                border: solid;
+                border-radius: 50%;
+                border-color: white;
+            }       
+        }
+        .stipjes2{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            margin-top: 1em;
+            .stip2{
+                height: 10px;
+                width: 10px;
+                border: solid;
+                border-radius: 50%;
+                border-color: white;
+                background-color: white;
+            }       
+            .stip1, .stip3 {
+                height: 10px;
+                width: 10px;
+                border-radius: 50%;
+                border: solid;
+                border-color: white;
+            }
+            .stip2, .stip3{
+                margin-left: 1em;
+            }
+        }
+        .stipjes3{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            margin-top: 1em;
+            .stip3{
+                height: 10px;
+                width: 10px;
+                border: solid;
+                border-radius: 50%;
+                border-color: white;
+                background-color: white;
+            }       
+            .stip1, .stip2 {
+                height: 10px;
+                width: 10px;
+                border-radius: 50%;
+                border: solid;
+                border-color: white;
+            }
+            .stip2, .stip3{
+                margin-left: 1em;
+            }
+        }
+        h1 {
+            font-size: 1.875em;
+            font-weight: 600;
+            /* 400 is standaar weight (Niet bold)*/
+            text-align: center;
+        }
+        p {
+            font-size: 1em;
+            text-align: center;
+            @media only screen and (min-width: 500px) {
+                margin: auto 2em auto 2em;
+                font-size: 1.2em;
+            }
+            @media only screen and (min-width: 870px) {
+                margin: auto 25% auto 25%;
+                font-size: 1.5em;
+            }
+        }
+    }
+}
+footer {
+    text-align: center;
+    margin: auto auto 1em;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    @media only screen and (min-width: 500px) {
+        margin: auto;
+    }
+    .Button {
+        font-size: 1em; /* knop dikgedrukt zodat hij meer opvalt */
+        font-weight: 700;/* Transparant, maar donker. Volgt de Achtergrond kleur en behoud hierarchie in de kleur*/
+        display: block;
+        background-color: rgba(0,0,0, 0.2);
+        /* padding-top: 1em; */
+        /* padding-bottom: 1em; */
+        padding-block: 1em;
+        /* is hetzelfde als de 2 lijnen hierbpven */
+        width: 100%;
+        border-radius: 1em;
+        @media only screen and (min-width: 500px) {
+            max-width: 60%;
+        }
+    }
+}
