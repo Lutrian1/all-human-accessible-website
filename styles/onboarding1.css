@@ -3,6 +3,10 @@ html {
     font-family: "Poppins", sans-serif;
     color: white;
     height: 100%;
+    html:selection{
+        color: white;
+        background-color: black;
+    }
 }
 body{
     background-color: #391fa1; 
