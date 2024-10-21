@@ -37,7 +37,7 @@ main {
         margin: auto;
 
         img {
-            background-image: radial-gradient(rgba(0, 0, 0, .3) 10em, transparent 0)
+            background-image: radial-gradient(rgba(0, 0, 0, .31) 10em, transparent 0)
         }
     }
     article{
@@ -144,7 +144,7 @@ footer {
         font-size: 1em; /* knop dikgedrukt zodat hij meer opvalt */
         font-weight: 700;/* Transparant, maar donker. Volgt de Achtergrond kleur en behoud hierarchie in de kleur*/
         display: block;
-        background-color: rgba(0,0,0, 0.3);
+        background-color: rgba(0,0,0, 0.31);
         /* padding-top: 1em; */
         /* padding-bottom: 1em; */
         padding-block: 1em;
