@@ -41,7 +41,11 @@ main {
         margin: auto;
 
         img {
-            background-image: radial-gradient(rgba(0, 0, 0, .31) 10em, transparent 0)
+            background-image: radial-gradient(rgba(0, 0, 0, .31) 10em, transparent 0);
+            @media (forced-colors: active) {
+                /* behoud het donkere contrast op de kleuren*/ 
+              forced-color-adjust:none;
+            }
         }
     }
     article{
@@ -57,6 +61,10 @@ main {
                 border: solid;
                 border-color: white;
                 background-color: white;
+                @media (forced-colors: active) {
+                      /* Zorgt ervoor dat de stipjes wit blijven bij een forced color in windows*/ 
+                    forced-color-adjust: none;
+                  }
             }
             .stip2, .stip3{
                 height: 10px;
@@ -65,7 +73,7 @@ main {
                 border: solid;
                 border-radius: 50%;
                 border-color: white;
-            }       
+            }      
         }
         .stipjes2{
             display: flex;
@@ -79,6 +87,10 @@ main {
                 border-radius: 50%;
                 border-color: white;
                 background-color: white;
+                @media (forced-colors: active) {
+                    /* Zorgt ervoor dat de stipjes wit blijven bij een forced color in windows*/ 
+                  forced-color-adjust:none;
+                }
             }       
             .stip1, .stip3 {
                 height: 10px;
@@ -103,6 +115,10 @@ main {
                 border-radius: 50%;
                 border-color: white;
                 background-color: white;
+                @media (forced-colors: active) {
+                    /* Zorgt ervoor dat de stipjes wit blijven bij een forced color in windows*/ 
+                  forced-color-adjust: none;
+                }
             }       
             .stip1, .stip2 {
                 height: 10px;
@@ -157,6 +173,10 @@ footer {
         border-radius: 1em;
         @media only screen and (min-width: 500px) {
             max-width: 60%;
+        }
+        @media (forced-colors: active) {
+            /* behoud het donkere contrast op de kleuren*/ 
+          forced-color-adjust:none;
         }
     }
 }
