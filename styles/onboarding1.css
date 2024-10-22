@@ -136,6 +136,7 @@ main {
             font-weight: 600;
             /* 400 is standaar weight (Niet bold)*/
             text-align: center;
+            margin-top: 0.5em;
         }
         p {
             font-size: 1em;
