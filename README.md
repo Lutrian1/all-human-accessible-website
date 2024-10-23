@@ -26,6 +26,7 @@ Een Lighthouse test is eigenlijk een snelle toegangkelijkheids test van de A11Y 
 <img width="1238" alt="image" src="https://github.com/user-attachments/assets/2752af50-6254-44f9-8405-f53b1e89b88c">
 <img width="1244" alt="image" src="https://github.com/user-attachments/assets/d5193484-1d2b-43ea-8ca9-c6394771e7e7">
 <img width="1236" alt="image" src="https://github.com/user-attachments/assets/f53e93e9-d0b7-4dd5-a683-d684cc7d0527">
+
 Ik had ervoor gekozen om de kleuren van de site te veranderen. Toen ik hem op blauw testte, behaalde hij een slecht contrast. Dus zocht ik naar de kleuren die nog enigsinds in het spectrum zaten van het schema die jullie hadden gestuurd via whatsapp. [Hier nog een korte uitleg](https://github.com/Lutrian1/all-human-accessible-website/wiki/Keuze-voor-kleur-wijzeging-(Tumi-Mundo))
 ### Contrast Themes Windows
 Tegenwoordig bied HTML en CSS een optie voor contrast themes binnen windows. Contrast themes is de vervanging van het oude 'hoog contrast modus'. Deze modus zet eigenlijk alles op een hoog contrast wat er dus voor zorgt dat bij velle kleuren de site niet meer toegangkelijk is. 
