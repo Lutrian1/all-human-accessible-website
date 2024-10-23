@@ -51,9 +51,6 @@ Deze line zorgt ervoor dat de tekst wit blijft, maar de achtergrond zich nog aan
 
 Figma: https://github.com/fdnd-agency/tumi-mundo
 
-Link naar site: https://lutrian1.github.io/the-client-website/
+Link naar site: [Site](https://lutrian1.github.io/all-human-accessible-website/)
 
-QR: ![Lakaka](https://github.com/user-attachments/assets/04aac2a4-ee53-4718-abfa-8d1b2f0bcaf2)
-
-Debriefing: [Debrefieing - TumiMundo.pdf](https://github.com/user-attachments/files/17304814/Debrefieing.-.TumiMundo.pdf)
 
