@@ -1,10 +1,10 @@
 # The Client - Website (Tumi Mundo)
 
 ## Inhoudsopgave: 
-* #### [- Inleiding](https://github.com/Lutrian1/the-client-website/blob/main/README.md#inleiding)
-* #### [- Beschrijving](https://github.com/Lutrian1/the-client-website/blob/main/README.md#beschrijving)
-* #### [- Kenmerken](https://github.com/Lutrian1/the-client-website/blob/main/README.md#inleiding)
-* #### [- Bronnen](https://github.com/Lutrian1/the-client-website/blob/main/README.md#inleiding)
+* #### [- Inleiding](https://github.com/Lutrian1/all-human-accessible-website/blob/main/README.md#kenmerken)
+* #### [- Beschrijving](https://github.com/Lutrian1/all-human-accessible-website/blob/main/README.md#kenmerken)
+* #### [- Kenmerken](https://github.com/Lutrian1/all-human-accessible-website/blob/main/README.md#kenmerken)
+* #### [- Bronnen](https://github.com/Lutrian1/all-human-accessible-website/blob/main/README.md#bronnen)
 
 ## Inleiding
 
