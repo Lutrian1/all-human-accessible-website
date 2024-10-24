@@ -53,4 +53,10 @@ Figma: https://github.com/fdnd-agency/tumi-mundo
 
 Link naar site: [Site](https://lutrian1.github.io/all-human-accessible-website/)
 
+Gesprek Sprint-Review: 
+
+https://github.com/user-attachments/assets/11ecf845-9c9d-471c-a349-c7e87283cf61
+
+
+
 
